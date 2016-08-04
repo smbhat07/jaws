@@ -1,2 +1,2 @@
 # jaws
-opensource utility to do workload simulation
+Just Another Workload Simulator, an opensource utility to do workload simulation
